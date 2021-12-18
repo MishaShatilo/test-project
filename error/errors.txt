@@ -1,1 +1,31 @@
 Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error: WHERE parameter "videoName" has invalid "undefined" value
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: SequelizeValidationError: notNull Violation: Video.userId cannot be null
+Caught exception: SequelizeValidationError: notNull Violation: Video.userId cannot be null
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Caught exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
